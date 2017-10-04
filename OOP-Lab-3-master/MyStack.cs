@@ -13,6 +13,6 @@ namespace lab3
         public static int negativeStacks;
         public static int countStacks;
         private int size;
-        public const string StackOwner = "SaintStas";
+        public const string StackOwner = "zabab";
     }
 }
